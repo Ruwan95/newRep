@@ -1,0 +1,19 @@
+git config --global user.name "username"
+git config --global user.email "email"
+git config --global http.proxy [proxyaddress]
+git diff
+git status
+git clone [address]
+git init
+git commit -m [message]
+git remote add origin [address]
+git push origin master
+
+create a directory RapidApplicationDevelopment
+Go to the directory RapidApplicationDevelopment
+Go to the directory Module
+Create a file index.html
+
+git config --global --unset credential.helper
+git branch B1  /* add a branch */
+git checkout B1 /* switch in to the branch */
